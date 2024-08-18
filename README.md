@@ -1,6 +1,6 @@
 # Resumo do Código para Coleta de Dados de Mercado Futuro do Dólar
 
-Este código realiza a coleta de dados de ações de contratos futuros de dólar na bolsa de valores "B3" usando web scraping. A seguir, está uma visão geral das principais etapas e funções do código:
+Este código realiza a coleta de dados de ações de contratos futuros de dólar na bolsa de valores "B3" usando web scraping e salvando em um arquivo Excel. A seguir, está uma visão geral das principais etapas e funções do código:
 
 ## 1. Importação de Bibliotecas
 
